@@ -9,7 +9,7 @@ My name is Vihaan Krishna! I am a current junior in high school interested in AI
     - **[AlzDetector]**🎉 Awarded 3rd Place Regional Science Fair 🎉**
  
 - Funded Founder of AlzDetector, Diata
-- - 👯 I'm looking to collaborate on **research projects/papers and impactful AI-powered projects.**
+- - I'm looking to collaborate on **research projects/papers and impactful AI-powered projects.**
   - Feel free to reach out and discuss any ideas: **vvihaankrishna@gmail.com.com**
 
 <h3 align="left">Connect with me:</h3>
