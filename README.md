@@ -6,7 +6,7 @@ My name is Vihaan Krishna! I am a current junior in high school interested in AI
 
 - I am currently working on:
     - **[FeynMind AI](https://github.com/vihaankrishna100/FeynMind-AI)
-    - **[AlzDetector]**🎉 Awarded 3rd Place Regional Science Fair 🎉**
+    - **[AlzDetector](https://github.com/vihaankrishna100/AlzDetector)**🎉 Awarded 3rd Place Regional Science Fair 🎉**
  
 - Funded Founder of AlzDetector, Diata
 - - I'm looking to collaborate on **research projects/papers and impactful AI-powered projects.**
