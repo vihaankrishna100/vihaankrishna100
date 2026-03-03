@@ -2,14 +2,14 @@
 
 ### Student, LLM/Disease Detection Researcher, ML Engineer
 
-My name is Vihaan Krishna! I am a current junior in high school interested in AI/ML applications. Over the past few years I have been striving to become proficient in various languages and frameworks as well as upcoming AI architectures. 
+My name is Vihaan Krishna! I am a current junior in high school interested in AI/ML applications. Over the past few years I have been striving to become proficient in various languages and frameworks as well as upcoming AI architectures. Right now, I am interested mainly in LLM applications and disease detection with AI.
 
 - I am currently working on:
-    - **[FeynMind AI](https://github.com/vihaankrishna100/FeynMind-AI)
-    - **[AlzDetector](https://github.com/vihaankrishna100/AlzDetector)**🎉 Awarded 3rd Place Regional Science Fair 🎉**
+    - ** [FeynMind AI](https://github.com/vihaankrishna100/FeynMind-AI)
+    - ** [AlzDetector](https://github.com/vihaankrishna100/AlzDetector) **🎉 Awarded 3rd Place Regional Science Fair 🎉**
  
 - Funded Founder of AlzDetector, Diata
-- - I'm looking to collaborate on **research projects/papers and impactful AI-powered projects.**
+  - I'm looking to collaborate on **research projects/papers and impactful AI-powered projects.**
   - Feel free to reach out and discuss any ideas: **vvihaankrishna@gmail.com.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -18,6 +18,8 @@ My name is Vihaan Krishna! I am a current junior in high school interested in AI
 <a href="https://www.linkedin.com/in/vihaan-krishna-2b26b1298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vihaan-krishna" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/VihaanK09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vihaankrishna100" height="30" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
