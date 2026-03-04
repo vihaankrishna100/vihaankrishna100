@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Vihaan Krishna
+# Hi there 👋, I'm Vihaan Krishna
 
 ### Student, LLM/Disease Detection Researcher, ML Engineer
 
