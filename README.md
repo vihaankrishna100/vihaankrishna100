@@ -7,6 +7,7 @@ My name is Vihaan Krishna! I am a current junior in high school interested in AI
 - I am currently working on:
     - **[FinSight AI](https://github.com/vihaankrishna100/FinSight-AI)**: An application powered by a **LoRA finetuned, RAG-based Qwen2.5-Instruct-7b Model** to give accuracte financial information + graphical data about select companies utilizing **FAISS embedding vector DB** and **L2 regularization** for semantic similarity scoring
     - **[AlzDetector](https://github.com/vihaankrishna100/AlzDetector)**, a **multi-agentic** model that is created to serve as an aid for Alzheimer's disease detection, utilizing CrewAI to orchestrate **5-specialized agents** in running analysis on user MRI/Clinical data, providing a tranparent and **explainable** model **🎉 Awarded 3rd Place Regional Science Fair 🎉**
+    - **LLM User-Modeling with Agentic Simulations**(coming soon)
  
 - Funded Founder of AlzDetector, Diata
   - I'm looking to collaborate on **research projects/papers and impactful AI-powered projects.**
